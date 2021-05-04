@@ -1,2 +1,2 @@
 # CoursesManagementSystem
-The ArkDev app which will be finished on Sunday &lt;3
+An Application for students to register courses saved on a Database (Server is not activated) 
